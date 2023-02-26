@@ -9,3 +9,11 @@
 #modal-details-body a {
     text-decoration: none;
 }
+
+.mealdb-footer{
+    background: rgba(255, 193, 7, 0.05);
+}
+.mealdb-footer .col a{
+    text-decoration: none;
+    color: black;
+}
