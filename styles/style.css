@@ -6,3 +6,6 @@
     border-radius: 10px;
     padding: 10px 35px;
 }
+#modal-details-body a {
+    text-decoration: none;
+}
