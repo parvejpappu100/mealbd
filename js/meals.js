@@ -56,7 +56,6 @@ const displayMealDetails = details =>{
         <p>Introduction: ${details.strInstructions}</p>
         <a  href="${details.strYoutube}" target="_blank">See how to make - Youtube</a>
     `;
-    console.log(details)
 }
 
 loadMeals("chicken");
